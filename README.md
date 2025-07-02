@@ -21,6 +21,7 @@ The goal was to extract actionable logistics insights from a sample shipment dat
   - KPI visualizations
   - Business commentary
 - `shipments.csv` – Mock dataset used for analysis
+- `Documentation of Data Science Task` word file for documenation 
 
 ---
 
