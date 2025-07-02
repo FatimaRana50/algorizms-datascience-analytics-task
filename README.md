@@ -56,6 +56,14 @@ The goal was to extract actionable logistics insights from a sample shipment dat
 
 ---
 
+## 🧩 Note on GitHub Preview
+
+If the `.ipynb` notebook **flickers on GitHub preview**, simply:
+> 🔍 **Zoom In and Out (Ctrl + Plus / Minus)**  
+This typically resolves the rendering issue and allows smooth viewing.
+
+---
+
 ## 📥 How to Run
 
 1. Upload both files to Google Colab or Jupyter.
